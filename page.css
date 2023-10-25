@@ -1,0 +1,125 @@
+
+ /* ---------nav------ */
+
+
+ .navs{
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+    justify-content: space-between;
+ }
+ .nav1{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+ }
+
+
+ /* ---------nav------ */
+
+
+
+
+/* --------------------------black----------------- */
+.blank{
+    background-color: black;
+    width: 100%;
+    height: 300px;
+}
+
+
+
+
+/* --------------------------black----------------- */
+
+
+
+.niche{
+    background-color: rgb(17, 185,143);
+    border-radius: 15px;
+ 
+    display: flex;
+    justify-content: space-between;
+  padding-left: 30px;
+}
+
+.vector{
+    width: 20px;
+    padding-right: 20px;
+    /* justify-content: center; */
+    padding-top: 20px;
+    
+}
+.content{
+   margin: 60px;
+    background-color:rgb(234, 240, 246);
+    width: 90%;
+    height: auto;
+}
+.container{
+
+}
+.word{
+    color:rgb(131, 146, 166) ;
+}
+span{
+    color: black;
+}
+.body{
+
+
+}
+.head{
+    padding: 40px;
+}
+.row3{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    gap: 20px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    
+    /* gap: 20px; */
+}
+
+.row1{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    gap: 20px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    /* gap: 20px; */
+}
+.con1{
+background-color: white;
+border-radius: 15px;
+padding-bottom: 40px;
+
+}
+img{
+    width: 400px;
+}
+
+
+.foot1{
+    /* margin-top: 50px; */
+    background-color: rgb(17, 185,143);
+ margin-top: 40px;
+   padding-left: 40px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 15px;
+}
+.foot2{
+    background-color: rgb(17, 185,143);
+ margin-top: 30px;
+ padding-left: 40px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 15px;
+}
+
